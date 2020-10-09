@@ -1,0 +1,15 @@
+## Title:           BracketBuddy
+## Version:         1.0.2
+## Author:          Cups
+## Interface:       80205
+
+## Notes: Acts as a counter for padded characters.
+## X-Category:      Battlegrounds/PvP
+## SavedVariables:  BracketBuddyDB
+
+Libs\embeds.xml
+
+GUI.lua
+BracketBuddy.lua
+Export.lua
+Settings.lua
